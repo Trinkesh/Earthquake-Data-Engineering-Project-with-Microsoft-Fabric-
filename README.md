@@ -1,3 +1,5 @@
+<img width="1698" height="877" alt="image" src="https://github.com/user-attachments/assets/8fd448d4-e9c3-4a1c-8be5-493fcaae877a" />
+
 Repository Contents
 Worldwide Earthquake Events API - Bronze Layer Processing: This notebook focuses on ingesting raw earthquake data from the USGS API. It performs minimal processing to store data in its original format, serving as the foundational layer for further refinement.
 
@@ -26,4 +28,5 @@ magType: A string describing the type of magnitude scale used.
 
 time: A timestamp marking the exact time of the event.
 
-updated: A timestamp indicating the last update time for the event data.
+updated: A timestamp indicating the last update time for the event data.<img width="1350" height="905" alt="image" src="https://github.com/user-attachments/assets/173e6ab1-e89a-44d5-923a-aced43fb2f4e" />
+
